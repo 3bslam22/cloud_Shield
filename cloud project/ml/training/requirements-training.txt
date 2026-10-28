@@ -1,0 +1,6 @@
+# Training-notebook dependencies; not installed in the inference/deployment image.
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+joblib==1.4.2

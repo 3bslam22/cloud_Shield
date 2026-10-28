@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Overview"},{"path":"/?view=upload","title":"Analyze File"},{"path":"/?view=events","title":"Anomaly Log"},{"path":"/?view=settings","title":"Connection Settings"}]}

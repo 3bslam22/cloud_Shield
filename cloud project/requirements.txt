@@ -1,0 +1,11 @@
+# Python 3.12 runtime verified with the supplied rf_model.pkl (scikit-learn 1.6.1 metadata).
+fastapi==0.115.8
+starlette==0.45.3
+pydantic==2.14.1
+uvicorn==0.34.0
+python-multipart==0.0.20
+joblib==1.4.2
+numpy==2.0.2
+scipy==1.15.2
+pandas==2.2.3
+scikit-learn==1.6.1
